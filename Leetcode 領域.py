@@ -10,8 +10,8 @@ class Solution:
     def __init__(self, dummy: Optional[List] = None):
         self.dummy = dummy
 
-    def func(self, par):
-        return par
+    def func(self):
+        pass
 
 
 if __name__ == "__main__":
